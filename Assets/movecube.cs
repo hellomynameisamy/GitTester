@@ -6,10 +6,14 @@ public class movecube : MonoBehaviour
 {
     private Rigidbody rb;
     public float speed;
+    public AudioSource sound;    
+    //hi amy
 
     void Start()
     {
         rb = GetComponent<Rigidbody>();
+        sound = GetComponent<AudioSource>();
+	    sound.Play();
     }
 
    

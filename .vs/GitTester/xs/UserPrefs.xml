@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{6341A9B1-48DD-BF19-1428-275B52869DA3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/movecube.cs">
+    <Files>
+      <File FileName="Assets/camera.cs" Line="27" Column="9" />
+      <File FileName="Assets/movecube.cs" Line="17" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
